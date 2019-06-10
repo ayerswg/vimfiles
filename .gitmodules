@@ -22,3 +22,6 @@
 [submodule "pack/plugins/start/vim-vinegar"]
 	path = pack/plugins/start/vim-vinegar
 	url = https://github.com/tpope/vim-vinegar.git
+[submodule "pack/plugins/start/vim-gradle"]
+	path = pack/plugins/start/vim-gradle
+	url = https://github.com/tfnico/vim-gradle.git
