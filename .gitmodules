@@ -1,0 +1,3 @@
+[submodule "pack/plugins/start/tabular"]
+	path = pack/plugins/start/tabular
+	url = https://github.com/godlygeek/tabular.git
