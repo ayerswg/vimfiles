@@ -36,6 +36,11 @@ let g:netrw_fastbrowse = 0
 let g:ale_completion_enabled = 1
 set omnifunc=ale#completion#OmniFunc
 let g:ale_set_balloons = 1
+let g:ale_completion_delay = 500
+"" Only allow manual linting
+"let g:ale_lint_on_text_changed = 'never'
+"let g:ale_lint_on_enter = 0
+"let g:ale_lint_on_save = 0
 
 " Modify statusline
 set laststatus=2
